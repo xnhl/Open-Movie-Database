@@ -18,35 +18,11 @@ export default {
 					name: 'viewport', 
 					content: 'width=device-width, initial-scale=1'
 				},
-				// {
-				// 	name: 'author', 
-				// 	content: ''
-				// },
 				{
 					hid: 'description',
 					name: 'description',
 					content: 'Browse media in the library of the Open Movie Database'
-				},
-				// {
-				// 	name: '', 
-				// 	content: ''
-				// },
-				// {
-				// 	name: 'og:image', 
-				// 	content: ''
-				// },
-				// {
-				// 	name: 'og:title', 
-				// 	content: ''
-				// },
-				// {
-				// 	name: 'og:description', 
-				// 	content: ''
-				// },
-				// {
-				// 	name: 'twitter:title', 
-				// 	content: ''
-				// },
+				}
 			]
 		}
 	}
